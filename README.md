@@ -1,1 +1,3 @@
-# flashcard-2B
+# 🧠 Progeto flashcard 2025
+
+# 🎯 Sobre projeto
